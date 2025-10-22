@@ -19,7 +19,8 @@ An advanced **unbounded-memory recurrent neural network** that combines:
 ✅ Parallel chunked processing  
 ✅ Efficient cross-memory attention  
 ✅ Works on GPU/CPU  
-✅ Speed outpreform LSTM
+✅ very fast training 
+✅ better then LSTM 
 
 ---
 I need help more improvements 
