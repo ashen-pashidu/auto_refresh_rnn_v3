@@ -23,5 +23,5 @@ An advanced **unbounded-memory recurrent neural network** that combines:
 ✅ better then LSTM 
 
 ---
-I need help more improvements 
+I need help more improvements. AutoRefresh_RNN 
 v1 and v2 upload soon..
