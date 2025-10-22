@@ -1,5 +1,5 @@
 # auto_refresh_rnn_v3
-New type of RNN better than LSTM
+New type of RNN better then LSTM
 
 # 🧠 AutoRefreshRNN_V3
 
